@@ -1,7 +1,7 @@
 {
-    "name": "jiny/jiny",
+    "name": "jiny/jinyshop",
     "type": "project",
-    "description": "The skeleton application for JinyPHP",
+    "description": "The skeleton application for JinyShop",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
@@ -18,7 +18,9 @@
         "jiny/manual": "^0.0.2",
         "jiny/modules": "^0.3.2",
         "jiny/permit": "^0.3.0",
+        "jiny/posts": "^0.0.3",
         "jiny/profile": "^0.3.1",
+        "jiny/site": "^0.0.7",
         "jiny/social": "^0.3.0",
         "jiny/theme": "^0.3.1",
         "jiny/ui": "^0.3.2",
